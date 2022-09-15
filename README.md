@@ -1,5 +1,5 @@
 # protein-pfam-classification
-The aim of this project is to predict the protein family ([Pfam](https://https://en.wikipedia.org/wiki/Pfam) family) based on the protein amino-acid sequence.
+The aim of this project is to predict the protein family ([Pfam](https://https://en.wikipedia.org/wiki/Pfam)) based on the protein amino-acid sequence.
 
 It is a long standing problem in molecular biology, which has received a lot of renewed attention recently. The main idea of the most successful recent approaches is to apply deep learning models, especially developed for NLP tasks, such as CNN [1, 2], Transformer [3, 4] and  bidirectional LSTM [5].
 
